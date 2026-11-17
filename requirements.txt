@@ -1,0 +1,5 @@
+python-telegram-bot
+pyTelegramBotAPI
+requests
+pyotp
+httpx[http2]
